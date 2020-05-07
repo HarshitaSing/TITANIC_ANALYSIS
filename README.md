@@ -5,29 +5,29 @@ Analysis of Titanic dataset data based on different columns.
 
 Columns in the dataset - 
 
-  PassengerId
-  
-  Survived
-  
-  Pclass
-  
-  Name
-  
-  Sex
-  
-  Age
-  
-  SibSp
-  
-  Parch
-  
-  Ticket
-  
-  Fare
-  
-  Cabin
-  
-  Embarked
-  
-  
+        PassengerId
+
+        Survived
+
+        Pclass
+
+        Name
+
+        Sex
+
+        Age
+
+        SibSp
+
+        Parch
+
+        Ticket
+
+        Fare
+
+        Cabin
+
+        Embarked
+
+
 
