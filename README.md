@@ -28,6 +28,8 @@ Columns in the dataset -
         Cabin
 
         Embarked
+        
+ Apologies for no header on cells , i exported the notebook from databricks and it came this way . 
 
 
 
