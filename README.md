@@ -29,7 +29,7 @@ Columns in the dataset -
 
         Embarked
         
- Apologies for no header on cells , i exported the notebook from databricks and it came this way . 
+ Apologies for no header on cells(ipynb file), i exported the notebook from databricks and it came this way . 
 
 
 
