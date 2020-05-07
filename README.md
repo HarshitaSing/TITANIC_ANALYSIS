@@ -1,4 +1,4 @@
-# TITANIC_ANALYSIS
+# TITANIC_ANALYSIS_2020
 Analysis of Titanic dataset data based on different columns.
 
 891 records taken for analysis of data containing info about passengers onboard. 
